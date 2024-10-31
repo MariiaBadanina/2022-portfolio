@@ -1,5 +1,5 @@
 {
-  "name": "surreal",
+  "name": "2022-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,7 +32,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://maria-badanina.com",
+  "homepage": "https://www.mariiabadanina.com/",
   "eslintConfig": {
     "extends": [
       "react-app",
